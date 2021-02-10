@@ -1,3 +1,7 @@
 hello
+<<<<<<< HEAD
 hello again
+hello* again
+=======
+>>>>>>> parent of 9fcaf58 (adding file1)
 hello* again
